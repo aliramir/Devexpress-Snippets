@@ -9,7 +9,7 @@ if (var x != null)
                 if (response == DialogResult.No) return;
             }
 
-////////////// OR
+////////////// OR =>
 
 var response = XtraMessageBox.Show(
                 "text",
